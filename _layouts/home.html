@@ -1,0 +1,13 @@
+{% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{post.title}}</a></li>
+    <!-- {{ post.title }} <br> -->
+    <br>
+{% endfor %}
+
+
+{% for file in site.static_files %}
+    <!-- {{ file.path }} <br>
+    {{ file.name }} <br>
+    {{ file.basename }} <br> -->
+    <img src="{{file.path}}" alt="{file.name}">
+{% endfor%}
