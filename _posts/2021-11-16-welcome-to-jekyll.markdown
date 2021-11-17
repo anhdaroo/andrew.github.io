@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Welcome to Jekyll!'
+title: 'Welcome to my Personal Website'
 date: 2021-11-16 10:34:58 -0800
 categories: jekyll update
 # permalink: '/my-new-url'
