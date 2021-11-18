@@ -20,11 +20,9 @@ title: Samples
 
 **Lorem ipsum dolor sit amet**, consectetur adipiscing elit. Quisque tempus nunc diam, non dignissim risus tincidunt a. Curabitur consequat justo vitae ipsum accumsan tempor. Quisque rhoncus eleifend ante vitae ultricies. Pellentesque suscipit nisl ut metus tincidunt, vulputate sodales dui commodo. Sed eget sapien varius, lacinia lectus nec, tempor dolor. Pellentesque sed mattis magna. Curabitur ut tristique turpis. Morbi sagittis dolor suscipit urna placerat, consectetur venenatis sapien viverra. Mauris vitae felis et sem venenatis cursus.
 
-
 ![Image]({{ site.baseurl }}/images/cc.jpg)
 
-
-Donec ornare turpis non ullamcorper pulvinar. *Integer ut mauris vehicula mauris posuere adipiscing.* Phasellus dictum cursus convallis. Sed dapibus laoreet porttitor.
+Donec ornare turpis non ullamcorper pulvinar. _Integer ut mauris vehicula mauris posuere adipiscing._ Phasellus dictum cursus convallis. Sed dapibus laoreet porttitor.
 
 ### Blockquotes
 
@@ -40,25 +38,23 @@ Donec ornare turpis non ullamcorper pulvinar. *Integer ut mauris vehicula mauris
    3. sub three
 2. Item Two
 
-* Uno
-* Dos
-* Tres
-
+- Uno
+- Dos
+- Tres
 
 ## Table
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Tables        |      Are      |  Cool |
+| ------------- | :-----------: | ----: |
 | col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
+| col 2 is      |   centered    |   $12 |
+| zebra stripes |   are neat    |    $1 |
 
 ## Code
 
 {% highlight python %}
 class node:
-    def __init__(self, data, next=None):
-        self.data = data
-        self.next = next
+def **init**(self, data, next=None):
+self.data = data
+self.next = next
 {% endhighlight %}

@@ -4,18 +4,16 @@ date: 2013-12-08 19:55:16
 categories: jekyll testing
 ---
 
-
 Herring Cove is a clean and responsive theme for Jekyll.
-
 
 ### Overview
 
-* Fixed Sidebar with social links
-* Minimal design
-* Comments by Disqus
-* Social Sharing abilities
-* Easy to configure
-* Based on Bootstrap
+- Fixed Sidebar with social links
+- Minimal design
+- Comments by Disqus
+- Social Sharing abilities
+- Easy to configure
+- Based on Bootstrap
 
 ### Screenshots
 
@@ -35,11 +33,13 @@ You can change the showcase image by replacing `showcase.jpg` file in the `image
 [download](https://github.com/arnp/herring-cove/archive/master.zip)
 
 ### License
-* [MIT](http://opensource.org/licenses/MIT)
 
--------------
+- [MIT](http://opensource.org/licenses/MIT)
+
+---
+
 Herring Cove is always a work in progress and as such, I hope to clean up the code and add features as time permits. Feel free to add your own additions.
 
-*What's with the name?*
+_What's with the name?_
 
 [Herring Cove](http://www.capecodbeachchair.com/beachguide/index.cfm?page=3&BeachID=5) is a beach on Cape Cod in Provincetown, Massachusetts. If you're in the area, be sure to check it out!
