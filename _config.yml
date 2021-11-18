@@ -21,8 +21,8 @@
 name: Andrew
 title: Andrew Nguyen
 author:
-# baseurl: '/andrew.github.io'
-baseurl: ''
+baseurl: '/andrew.github.io'
+# baseurl: ''
 description: Software Engineer
 github: https://github.com/anhdaroo
 twitter: https://twitter.com/anhdaroo
